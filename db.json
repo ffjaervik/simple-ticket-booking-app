@@ -1,0 +1,104 @@
+{
+  "allEvents": [
+    {
+      "city": "London",
+      "events": [
+        {
+          "id": 1,
+          "name": "The Lion King",
+          "description": "Lorem ipsuum quantum soi. I dafo della quanti decuidite a nostrum casi quo, della fami e della satulite a nostrum veritas soy. Al postum finite o sono el espiritu santi con el dio al mano!",
+          "date": "2019-07-01",
+          "time": "19:00",
+          "price": 50,
+          "registeredUser": []
+        },
+        {
+          "id": 2,
+          "name": "Wicked",
+          "description": "Lorem ipsuum quantum soi. I dafo della quanti decuidite a nostrum casi quo, della fami e della satulite a nostrum veritas soy. Al postum finite o sono el espiritu santi con el dio al mano!",
+          "date": "2019-07-02",
+          "time": "19:00",
+          "price": 39,
+          "registeredUser": []
+        },
+        {
+          "id": 3,
+          "name": "The Phantom of the Opera",
+          "description": "Lorem ipsuum quantum soi. I dafo della quanti decuidite a nostrum casi quo, della fami e della satulite a nostrum veritas soy. Al postum finite o sono el espiritu santi con el dio al mano!",
+          "date": "2019-07-03",
+          "time": "19:00",
+          "price": 40,
+          "registeredUser": []
+        },
+        {
+          "id": 4,
+          "name": "The Book of Mormon",
+          "description": "Lorem ipsuum quantum soi. I dafo della quanti decuidite a nostrum casi quo, della fami e della satulite a nostrum veritas soy. Al postum finite o sono el espiritu santi con el dio al mano!",
+          "date": "2019-07-04",
+          "time": "19:00",
+          "price": 29,
+          "registeredUser": []
+        },
+        {
+          "id": 5,
+          "name": "Hamilton",
+          "description": "Lorem ipsuum quantum soi. I dafo della quanti decuidite a nostrum casi quo, della fami e della satulite a nostrum veritas soy. Al postum finite o sono el espiritu santi con el dio al mano!",
+          "date": "2019-07-05",
+          "time": "19:00",
+          "price": 34,
+          "registeredUser": []
+        }
+      ]
+    },
+    {
+      "city": "Madrid",
+      "events": [
+        {
+          "id": 6,
+          "name": "Tablaos Flamencos",
+          "description": "Lorem ipsuum quantum soi. I dafo della quanti decuidite a nostrum casi quo, della fami e della satulite a nostrum veritas soy. Al postum finite o sono el espiritu santi con el dio al mano!",
+          "date": "2019-07-01",
+          "time": "19:00",
+          "price": 20,
+          "registeredUser": []
+        },
+        {
+          "id": 7,
+          "name": "Private tour of the Prado Museum",
+          "description": "Lorem ipsuum quantum soi. I dafo della quanti decuidite a nostrum casi quo, della fami e della satulite a nostrum veritas soy. Al postum finite o sono el espiritu santi con el dio al mano!",
+          "date": "2019-07-02",
+          "time": "19:00",
+          "price": 39,
+          "registeredUser": []
+        },
+        {
+          "id": 8,
+          "name": "The secret tunnels of Madrid",
+          "description": "Lorem ipsuum quantum soi. I dafo della quanti decuidite a nostrum casi quo, della fami e della satulite a nostrum veritas soy. Al postum finite o sono el espiritu santi con el dio al mano!",
+          "date": "2019-07-03",
+          "time": "19:00",
+          "price": 40,
+          "registeredUser": []
+        },
+        {
+          "id": 9,
+          "name": "Tour of Cibeles",
+          "description": "Lorem ipsuum quantum soi. I dafo della quanti decuidite a nostrum casi quo, della fami e della satulite a nostrum veritas soy. Al postum finite o sono el espiritu santi con el dio al mano!",
+          "date": "2019-07-04",
+          "time": "19:00",
+          "price": 29,
+          "registeredUser": []
+        },
+        {
+          "id": 10,
+          "name": "Daytrip to Toledo",
+          "description": "Lorem ipsuum quantum soi. I dafo della quanti decuidite a nostrum casi quo, della fami e della satulite a nostrum veritas soy. Al postum finite o sono el espiritu santi con el dio al mano!",
+          "date": "2019-07-05",
+          "time": "19:00",
+          "price": 34,
+          "registeredUser": []
+        }
+      ]
+    }
+  ]
+}
